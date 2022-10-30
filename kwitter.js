@@ -4,5 +4,5 @@ function addUser()
 
   localStorage.setItem("kwitter_username", name);
 
-  window.location.pathname = "kwitter/room/";
+  window.location.pathname = "Kwitter/room/";
 }
